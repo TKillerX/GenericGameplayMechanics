@@ -1,0 +1,23 @@
+Light Armor : Damage Reduction
+	[Common]  	+5% 
+	[Uncommon]  +10%
+	[Rare]  	+15%
+	[Legendary] +25%
+
+Heavy Armor : Health	
+	[Common]  	+1000 
+	[Uncommon]  +2000
+	[Rare]  	+3000
+	[Legendary] +5000
+
+Magic armor	: Health Regen
+	[Common]  	+100 
+	[Uncommon]  +200
+	[Rare]  	+300
+	[Legendary] +500
+
+Weaponry : Damage
+	[Common]  	+50 
+	[Uncommon]  +100
+	[Rare]  	+150
+	[Legendary] +250

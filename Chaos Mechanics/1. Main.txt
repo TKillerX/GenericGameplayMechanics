@@ -1,0 +1,1 @@
+A combat focused system that uses health and cooldowns as ammo for magic and attacks. This system uses no dice on the player side. This system is about strategy and tactics more than big number.

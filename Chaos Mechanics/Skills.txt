@@ -1,0 +1,22 @@
+Health Skills
+Skills that use health to aid in its power. These skills are usually melee. Skills drain the player's base health, do not add any armor boosts. The maximum a skill's output is created with the skill being a percentage of max HP.
+Skill Power: +1 Power per Health
+
+
+Time Skills
+Skills that have a cooldown before it could be used again. These skills are usually magical. They have a specific cooldown before being used again but they do not drain anything when used.
+Skill Power: +20% * Cooldown (Max 5 Turns)
+
+
+Resource Skills
+Skills that can be used a certain amount per combat. These skills are usually a ranged weapon attack. The # of uses determines the power of the skill.
+Skill Power
++20% for 5 Uses
++30% for 4 Uses
++40% for 3 Uses
++60% for 2 Uses
++120% for 1 Use
+
+
+Bonus Effects
+At the cost of something equivalent (Time/Resource/Health) Gain some sort of bonus. These can be custom statuses or more something. They must not exceed 100% of the base skill's power.
