@@ -1,0 +1,44 @@
+Reactions
+Attacks generally have two correct reactions
+
+
+Avoid + Dodge > Quick
+Cannot Stun Quick Attacks, there's not enough time.
+
+Dodge + Stun  > Range
+Cannot Avoid Range Attacks, they'll always reach you.
+
+Stun + Avoid  > Melee
+Cannot Dodge Melee Attacks, they have control over the attack.
+
+
+Avoid (Run Away)
+These attacks have a limited range. Running out of the range avoids the attack.
+Used for: Short Ranged Attacks
+Speed: Last
+Reaction Requirement: No Attack**
+**Being already out of range allows a ranged attack. 
+
+Dodge (Side Step)
+These attacks are typically fast and simple. 
+Used for: Fast Attacks
+Speed: First
+Reaction Requirement : None
+
+Stun (Attack)
+Attacks that can be broken by getting hit. These attacks have some start up time.
+ Used for: Heavy Attacks
+ Speed: Average
+ Reaction Requirement : Fast Attack
+
+
+Special Attack
+Attacks with only one correct reaction
+1. An enemy prepared for 1 complete turn
+2. A boss's special ability
+3. 2+ enemies attack together
+
+
+Never EVER make an unavoidable attack**
+** An unavoidable attack means there's no skill involved. An unavoidable attack should only be used as a Punishment/Game Over for failing an obvious task or being completely unprepared.
+
