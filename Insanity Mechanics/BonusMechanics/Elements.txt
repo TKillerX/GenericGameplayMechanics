@@ -1,0 +1,10 @@
+Magical Elements [+25%/-25% Stats]
+Neutral	[N/A	] +N/A				-N/A
+	
+Solid		[Earth] +Constitution, Strength	-Dexterity, Intelligence
+Liquid	[Water] +Dexterity, Intelligence	-Constitution, Strength
+Gas		[Air	] +Constitution, Dexterity	-Intelligence, Strength
+Aether	[Fire	] +Intelligence, Strength	-Constitution, Dexterity
+
+Time		[Light] +Damage Reduction		-Damage Done
+Space		[Dark	] +Damage Done			+Damage Taken

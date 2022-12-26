@@ -1,0 +1,26 @@
+Versatile : [D10] 12/ 10/ 8
+	Consistent, Constant, Balanced 
+	Sum of simple ideas for a complex style. 
+	Special Ability: Copycat. Add the damage dice of attacks that have been blocked.
+
+Simple
+= to Damage Level
+Every skill level increases potential damage linearly.
+
+Versatile: Armor Class
+[Common]: 		+1 Defense
+[Uncommon]: 	+2 Defense
+[Rare]: 		+4 Defense
+
+Versatile ~ Patient Ability Changer	[Lasts 6 Turns] [Don’t Stack]
+Density 	[Self]	[Armor Up] 		+Defense (Max +10)
+Crumble 	[Opp]		[Armor Down] 	-Defense (Max -10)
+Gravitize 	[Opp]		[Hit Up]		+Hit (Max +10)
+Pressure 	[Opp]		[Hit Down]		-Hit (Max -10)
+Lumos		[Opp]		[Confusion]		-Chance to hit correct target
+Momentum	[Self]	[Defense]		Resist Damage and Status
+Force		[Self]	[Dice Up] 		+Dice Roll (Max at +10)
+
+Status Modifier : [Status Seal] 50% Power for 20 Turn Duration
+
+Recovery! Recover Stamina equal to Total Chain Power.

@@ -1,0 +1,27 @@
+Power : [D20] 	10/ 8/ 12
+	Powerful, Risky, Dangerous
+	Quick burst of power. Lose energy at a rapid pace.
+	Special Ability: Rapid Attack: Can roll to hit again with another drain.
+
+Sink
+Increases with mana cost. No Cap for Maximum Dice.
+The brighter the candle the shorter the lifespan.
+
+Power: Efficiency
+[Common]: 		+10% Damage
+[Uncommon]: 	+25% Damage
+[Rare]: 		+50% Damage
+
+Power ~ Chaotic Stat Cannon [Lasts 3 Turns] [Don’t Stack]
+Freeze	[Opp]		[Spd Down]	Spd
+Swift		[Self]	[Spd Up]	Spd
+Paralysis	[Opp]		[Str Down]	Str
+Mass		[Self]	[Str Up]	Str
+Burn		[Opp]		[Int Down]	Int
+Charge	[Self]	[Int Up]	Int
+Lock Down	[Opp]		[Lock]	-Power
+
+Status Modifier : [Status Wheel] 50% Power To Stack for 3 Turns 
+
+Overload! Add 10% of total chain power to damage.
+

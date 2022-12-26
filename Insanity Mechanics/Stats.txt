@@ -1,0 +1,32 @@
+Starting Stat Points: 10 at Lvl 1
+5 Stat Points per level until Level 5
+Gain stat points = to the next level
+
+Health/Stam/Mana Scale
+Scale * 10 * (Level + Stat)
+
+Str > Melee Damage
+Con > Health and Defense
+Dex > Stamina and Dodge
+Int > Mana and Magic Damage
+Wis > Perception
+Cha > Talking
+
+Modifier : Stat/10  rounded down
+
+~Hit Chance~
+Add attacking Stat’s Modifier to roll
+Attacking vs Dodge/Defense (Use Higher One)
+
+~Armor Class (AC)~
+Dodge Class: 10 + Dex Mod (Max +5)
+Defense Class: 10 + Con Mod (Max +5)
+
+~Damage Types~
+Magic Damage : Ignores 50% of Dodge Class
+Slashing Damage :Decrease Dodge Class by Attacking Stat’s Mod, permanently if hit.
+Piercing Damage :Decrease Defense Class by Attacking Stat’s Mod, permanently if hit.
+Bludgeoning Damage : Ignores 50% of Defense Class
+
+~Power~
+Every 20 Power is 1 Stack of a Status

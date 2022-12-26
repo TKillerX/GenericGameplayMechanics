@@ -1,0 +1,9 @@
+An combat oriented system using a variety of dice to determine effectiveness. This system focuses on a variety of bufs and debuffs that inturn boost damage. This system is very determined on risk and reward and outsmarting the debuffs.
+
+
+Note: 
+	Should probably get reworked to reduce randomness. There's so much going on it is so hard to keep track of.
+
+	Should probably get reworked to reduce buffs and debuff effectiveness. Possibly only have one buff and one debuff active at a time. This would stop long fights turning into walking with 100 buffs and 100 debuffs.
+
+	Redo Proficiencies to take into account only 1 status active at a time

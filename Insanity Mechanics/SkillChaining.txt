@@ -1,0 +1,22 @@
+Skill Chaining
+
+Disgaea D2: A Brighter Darkness ~Weapon Skills Exhibition~
+https://youtu.be/rE7kd2HVsyQ
+
+Finishing a hit while the target has a specific status effect can allow a chain. Chained skills add bonus damage while also applying its effect at a decreased effectiveness. Skills can only be chained once. Chained Skills lose 10% of their dice per chain.
+
+Chain Finisher
+Chain Finisher: A Drainless Basic Attack with added power based on the power of the chain. Each chain has a power boost depending on the rarity of the skill, stronger chains produce stronger power boosts. All of the chain power is added at the end to boost this attack’s power. A Chain Finisher uses up all the status effects applied by the chain to apply special effects unique to the class.
+
+A skill needs a minimum of 100 Power to continue a chain.
+
+Chain Breaker
+After the 3rd chained skill, roll to break out of the chain replacing the 10 in normal AC calculations with a D20. To break the chain, the AC must exceed the original hit chance.
+
+Chain Maintainer
+Rolling above these values for the dice increases hit by 1. Crits count as a 20 base hit.
+D6:	4
+D8:	6
+D10:	8
+D12:	10
+D20:	16

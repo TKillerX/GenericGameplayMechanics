@@ -1,0 +1,29 @@
+Grid System
+
+Distance is a path in the 4 Cardinal Directions, no diagonals.
+Movement Spaces: 3 + Dex Mod.
+Intercept Attack: If an entity runs within melee range past another hostile entity, that other entity is allowed the chance to hit a basic attack and stop their motion.
+
+~Terrains~
+
+[Half Down] : 1 Meter Down
+	+3 To AC, -3 To Hit
+[Full Down] : 2 Meters Down
+	Disadvantage for Both Parties
+[PitFall] : 4 Meters Down
+	Trapped: No Attack; Attacker: Disadvantage
+
+[Half Up] : 1 Meter Up
+	+3 To Hit; -3 To AC
+[Full Up] : 2 Meter Up
+	Advantage to Both Parties
+[Column] : 4 Meters or to Ceiling
+	Trapped: No Attack, Attacker: Disadvantage
+
+[Half Slow] : -2 Movement Speed
+[Full Slow] : -6 Movement Speed
+[Stopped]   : 1 Turn of Movement
+
+[Small Hazard] : 10% Total Health Damage
+[Medium Hazard] : 30% Total Health Damage
+[Large Hazard] :60% Total Health Damage

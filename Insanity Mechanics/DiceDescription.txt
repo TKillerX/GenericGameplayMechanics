@@ -1,0 +1,38 @@
+JoAT (Jack of All Trades) : [D4]	12/10/10
+	Everything, Everywhere, All at Once
+	Using everything possible to win
+	Special Ability: Blood Count. D4 is the blood count. Multiply power and drain by blood count. Take the drain straight to health. Every time a 4 is rolled, roll again and add.
+
+
+Spirit: [D6]	10/ 10/ 10
+	Invincible, Untouchable, Intelligent
+	Use your adaptability to survive
+	Special Ability: Precognition. Take dice of hit below Level + Wis Mod. Saved 	until used. 
+	Note: Takes Dice from Speed if the first attack misses, will still be hit by Course Correct
+
+
+Speed : [D8] 	8/ 12/ 10
+	Quick, Chaotic, Resourceful
+	Making use of landing as many hits as possible.
+	Special Ability: Course Correct. Lose 5% of dice to attack again for +1 hit.
+
+
+Versatile : [D10] 12/ 10/ 8
+	Consistent, Constant, Balanced 
+	Sum of simple ideas for a complex style. 
+	Special Ability: Copycat. Add the damage dice of attacks that have been blocked.
+
+
+Love : [D12] 	10/ 12/ 8
+	Different, Dangerous, Delicious?
+	Fighting alone on a team
+	Special Ability: Wear Down, Damage instead goes to Stamina. AoE, but split power.
+
+
+Power : [D20] 	10/ 8/ 12
+	Powerful, Risky, Dangerous
+	Quick burst of power. Lose energy at a rapid pace.
+	Special Ability: Rapid Attack: Can roll to hit again with another drain.
+
+
+

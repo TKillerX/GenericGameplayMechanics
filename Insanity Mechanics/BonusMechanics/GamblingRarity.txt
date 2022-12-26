@@ -1,0 +1,13 @@
+G̺̺̥̤̠̲̮ͬͮ̋͌ͫa̪͚͖̓̈̓̔m̠͕̜̍̒b̯͔̙̦̜̳́̉̒ͥ̔l̼͚͎͖̈́i̯̘̮̳͉̲̝͑ͬn̟̅̈͛g̖͚̗̅̃̉̊̐͌͒ ͎̅ͭͬ̆S͔̮͙̺̰̯̘̋ͨͫk̗͍̫̳̔̄ͫͅi͖ͯ͑̽̀l͇͔͚̰͊̓l͍̯͇̖̥̦̲̉s͕̐ͬ͊́ͤͅ
+
+Skills with a requirement that must be met to activate, but in turn, give crazy effects.
+Requirement 1: Must be after 2 rare skills.
+Requirement 2: Must be used in a specific spot in the chain.
+Requirement 3: Unique to the skill.
+
+Effects
+Gamble Skills are all unique with very specific effects. 
+The dice rolled for a gamble skill is predetermined, a D6 can have a skill that does a D20 while still using dexterity.
+The status effects are predetermined, this allows classes to obtain debuffs normally not allowed for them.
+The skills may have bonuses that cannot be obtained otherwise.
+

@@ -1,0 +1,45 @@
+Weaponry
+
+Versatile: Armor Class
+	[Common]: 		+1 Defense
+	[Uncommon]: 	+2 Defense
+	[Rare]: 		+4 Defense
+
+Speed: Speed Constant
+	[Common]: 		  +5 Dice
+	[Uncommon]: 	+10 Dice
+	[Rare]: 		+20 Dice
+
+Power: Efficiency
+	[Common]: 		+10% Damage
+	[Uncommon]: 	+25% Damage
+	[Rare]: 		+50% Damage
+
+Love: Stamina
+	[Common]: 		+2 Stamina Bar Scale
+	[Uncommon]: 	+4 Stamina Bar Scale
+	[Rare]: 		+8 Stamina Bar Scale
+
+
+Equipment
+
+Light: Dodge Class
+	[Common]: 		+2 Dodge
+	[Uncommon]: 	+4 Dodge
+	[Rare]: 		+8 Dodge
+
+Heavy: Defense Class
+	[Common]: 		+2 Defense
+	[Uncommon]: 	+4 Defense
+	[Rare]: 		+8 Defense
+
+Chain: Armor Class, General and Universal
+	[Common]: 		+1 AC
+	[Uncommon]: 	+2 AC
+	[Rare]: 		+4 AC
+
+Beast Armor: Bonus AC with a -8AC Drawback.
+	[Common]: 		+2 AC
+	[Uncommon]: 	+4 AC
+	[Rare]: 		+8 AC
+
