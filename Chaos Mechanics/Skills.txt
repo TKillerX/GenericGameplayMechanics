@@ -20,3 +20,6 @@ Skill Power
 
 Bonus Effects
 At the cost of something equivalent (Time/Resource/Health) Gain some sort of bonus. These can be custom statuses or more something. They must not exceed 100% of the base skill's power.
+Status Effects apply an 80% Health Skill Penalty
+Status Effects have atleast 2 Turn Cooldown
+Status Effects take 2 Uses

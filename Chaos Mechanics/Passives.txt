@@ -1,0 +1,26 @@
+Job Passives
+
+
+Looter (I - V): You are specialized in finding materials.
++10% extra drops per level
+
+Builder (I - V): You are specialized in creation.
++10% quality level
+
+Farmer's Harvest (I - V): You are capable of harvesting anything. Anything.
++10% chance to steal/disarm
+
+Alchemist's Resistance (I - V): Your experiments lead to increasing your resistances.
+-10% effectiveness of status effects
+
+Miner's Scan (I - V): Your keen eye allows you to find whatever you are looking for.
++10% chance to find something
+
+Blacksmith's Ramp Up (I - V): As you continue you find your hammering rhythm.
+Every turn gain +2% in a stat (5 Turns)
+
+Lumberjack's Execute (I - V): Your skills allow you to tip the mightiest challenges.
+Foes below +1% health are knocked out.
+
+Architect's Critical (I - V): You know how to crumble any foundation.
++5% chance to land a critical hit and doing 1.5x damage.

@@ -1,0 +1,20 @@
+Wis : Poisoned
+Disable Health Regen, 1/5 Damage a turn
+
+Con : Wounded
+Half Health for duration
+
+Agi : Dizzy
+Disable Damage reduction
+
+Str : Numb
+Half Strength then Subtract
+-Str Penalty : Unable to Move
+
+Int : Confused
+Half Intelligence then Subtract
+-Int Penalty : Unable to Speak
+
+Per : Blind
+Half Perception then Subtract
+-Per Penalty : Unable to See
