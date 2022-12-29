@@ -1,0 +1,19 @@
+Stat Passives
+
+Wisdom(I - X): You are becoming wiser.
++10% Wisdom
+
+Constitution(I - X): You are becoming more durable
++10% Constitution
+
+Agility(I - X): You are becoming quicker
++10% Agility
+
+Strength(I - X): You are becoming stronger
++10% Strength
+
+Intelligence(I - X): You are becoming smarter
++10% Intelligence
+
+Perception(I - X): You are becoming more observant
++10% Perception

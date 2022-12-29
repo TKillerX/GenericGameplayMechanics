@@ -1,25 +1,34 @@
 Health Skills
-Skills that use health to aid in its power. These skills are usually melee. Skills drain the player's base health, do not add any armor boosts. The maximum a skill's output is created with the skill being a percentage of max HP.
+Skills that use health to aid in its power. These skills are usually melee. Skills drain the player's base health, do not add any armor boosts. The maximum a skill's output cannot exceed 10% of max HP.
 Skill Power: +1 Power per Health
 
 
 Time Skills
-Skills that have a cooldown before it could be used again. These skills are usually magical. They have a specific cooldown before being used again but they do not drain anything when used.
-Skill Power: +20% * Cooldown (Max 5 Turns)
+Skills that have a before being used. The skill is broken upon taking damage, so the longer the charge up time, the riskier the move. As a result, the more powerful the move will be.
+1 Turn : 10%  Power
+2 Turns: 20%  Power
+3 Turns: 40%  Power
+4 Turns: 80%  Power
+5 Turns: 160% Power
+
+
+Regenerating Skills
+Skills that use a regenerating pool as its resource for using the skill. These skills are usually magical since the regenerating pool will usually be mana. They do not have cooldowns and can be used continiously aslong as there's enough resource.
+[Base Resource Cap: 5]
+[Base Resource Gain: 1 per Turn]
++10% power for every extra resource used.
 
 
 Resource Skills
 Skills that can be used a certain amount per combat. These skills are usually a ranged weapon attack. The # of uses determines the power of the skill.
-Skill Power
-+20% for 5 Uses
-+30% for 4 Uses
-+40% for 3 Uses
-+60% for 2 Uses
-+120% for 1 Use
+[Base Resource Cap: 5]
+[Base Resource Gain: 1 per Turn]
++20% power for every resource used at once
 
 
 Bonus Effects
-At the cost of something equivalent (Time/Resource/Health) Gain some sort of bonus. These can be custom statuses or more something. They must not exceed 100% of the base skill's power.
-Status Effects apply an 80% Health Skill Penalty
-Status Effects have atleast 2 Turn Cooldown
-Status Effects take 2 Uses
+At the cost of something equivalent, Gain some sort of bonus. These can be custom statuses or more something else. They must not exceed 100% of the base skill's power.
+Health Skill	: Final Damage is cut to 80%
+Time Skill  	: +1 Charge Time (No Power Bonus)
+Regenerating Skill: +2 Resource use (No Power Bonus)
+Resource Skill	: +2 Resources used (No Power Bonus)

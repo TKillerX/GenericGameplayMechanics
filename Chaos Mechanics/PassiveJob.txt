@@ -1,8 +1,7 @@
 Job Passives
 
-
 Looter (I - V): You are specialized in finding materials.
-+10% extra drops per level
++10% extra drops per level; +1 Rarity
 
 Builder (I - V): You are specialized in creation.
 +10% quality level
@@ -24,3 +23,5 @@ Foes below +1% health are knocked out.
 
 Architect's Critical (I - V): You know how to crumble any foundation.
 +5% chance to land a critical hit and doing 1.5x damage.
+
+

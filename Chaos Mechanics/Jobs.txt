@@ -5,12 +5,14 @@ Active : AoE
 Melee ranged AoE (2 Turn)
 {Can be used to harvest plants}
 
+
 Alchemist(Int)	... Cures Poison
-Passive : Weakness
+Passive : Resistance
 Passive : Builder
 Active : Elemental Blast
 Summon Fire/Water/Earth/Wind/Light on a Small AoE (Once Each)
-{The blast is 10ft by 10ft}
+{The blast is 10ft by 10ft : Based on Resources}
+
 
 Miner(Per)		... Cures Confused
 Passive : Scan
@@ -25,7 +27,7 @@ Passive : Ramp Up
 Passive : Builder
 Active : Speed Forge
 Create 1 Object (Once)
-{The object must be made of metal and weigh less than 50lbs}
+{The object must be made of metal and weigh less than 50lbs : Based on Resources}
 
 
 Lumberjack(Str)	... Cures Wounded
@@ -41,4 +43,4 @@ Passive : Criticals
 Passive : Builder
 Actve : Construction
 Create a small structure (5 Turn)
-{The structure falls apart in an hour}
+{The structure falls apart in an hour : Based on Resources}

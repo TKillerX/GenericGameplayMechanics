@@ -1,20 +1,34 @@
+All status effects last at most 5 turns
+
 Wis : Poisoned
-Disable Health Regen, 1/5 Damage a turn
+I. Half Health Regen
+II. 1/5 Damage a turn
+III. Disable Health Regen
 
 Con : Wounded
-Half Health for duration
+I. Lose 1/8 max health for duration
+II. Lose 1/4 max health for duration
+III. Lose 1/2 max health for duration
 
 Agi : Dizzy
-Disable Damage reduction
+I. Lose 1/4 of Damage Reduction
+II. Lose 1/2 of Damage Reduction
+III. Disable Damage reduction
 
 Str : Numb
-Half Strength then Subtract
+I. Lose Half Strength
+II. Lose Half Strength then Lose 1/4 of Potency
+III. Lose Half Strength then Lose 1/2 of Potency
 -Str Penalty : Unable to Move
 
 Int : Confused
-Half Intelligence then Subtract
+I. Lose Half Intelligence
+II. Lose Half Intelligence then Lose 1/4 of Potency
+III. Lose Half Intelligence then Lose 1/2 of Potency
 -Int Penalty : Unable to Speak
 
 Per : Blind
-Half Perception then Subtract
+I. Lose Half Perception
+II. Lose Half Perception then Lose 1/4 of Potency
+III. Lose Half Perception then Lose 1/2 of Potency
 -Per Penalty : Unable to See

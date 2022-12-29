@@ -1,6 +1,7 @@
 Base Stat : 0
 300 Statpoints to Start
 50 Per Level
+1 Passive Point per Level
 
 EXP: Level x 1000
 Gain XP by Healing, doing Damage, or other rewards
@@ -8,7 +9,7 @@ Gain XP by Healing, doing Damage, or other rewards
 
 Wisdom 	> Health Regen {Wis HP per turn}
 Constitution> Health {Con x 10}
-Agility 	> Damage Reduction {5% * Dex Mod}
+Agility 	> Damage Reduction {sqrt(Agi)}
 Strength 	> Melee Damage
 Intelligence> Magic Damage
 Perception 	> Range Damage

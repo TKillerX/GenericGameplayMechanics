@@ -1,1 +1,1 @@
-A combat focused system that uses health and cooldowns as ammo for magic and attacks. This system uses no dice on the player side. This system is about strategy and tactics more than big number.
+A general system for combat and life. It is about stacking passives to accel the ranks rather than grinding for stronger skills. This system is about being specialized because there will be not enough time to gain skill in everything.

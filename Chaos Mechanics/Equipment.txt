@@ -1,4 +1,4 @@
-Light Armor : Damage Reduction
+Light Armor : Agility
 	[Common]  	+5% 
 	[Uncommon]  +10%
 	[Rare]  	+15%
