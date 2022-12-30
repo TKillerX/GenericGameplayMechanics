@@ -1,0 +1,65 @@
+Spirit Onyx(Witch)
+			
+Ability: 	Transformation (Dysmorphobia)
+Spirit can transform into any shape
+Madness: 	None
+Magic:	1000% Chaos
+
+Personality	: Confident
+Hobby		: Sculpting
+Hates		: Witches and Magic.
+Job 		: Architect
+
+Backstory:
+Aether has transformed into a SoulBlade and put into a box for transport. She was then thrown into a lake left there for a few days until Klora found her and saved her.
+
+
+
+Stats
+Minimum Stats : Level * 25
+
+Level 1 (50/350)
+Health: 15 000 
+Wisdom 	 	: 25	{x10}	250(+2)
+Constitution (50%): 150 {x10}	1500(+15)
+Agility 	 (50%): 150 {x10}	1500(+15)
+Strength 		: 25	{x10}	250(+2)
+Intelligence 	: 25	{x10}	250(+2)
+Perception 	 	: 25	{x10}	250(+2)
+
+Damage Reduction: 38.7%
+
+
+
+Combat ~ Melee(Time)
+Spiret uses basic attacks for combat. They refuse to use magic.
+
+
+Punch (Quick)
+Start Up: Spiret is in a fighting stance
+Spiret Punches
+
+Warp Punch (Ranged)
+Start Up: Spiret is in a fighting stance
+Spiret lunges really fast at the target. Requires 10% of Agi in Per to realize it is just Spiret running really fast.
+
+Kick (Melee)
+Start Up: Spiret is in a fighting stance
+Spiret Kicks.
+
+DropKick (*Avoid*) {Below 25% Health}
+Start Up: Spiret is in a different fighting stance
+Spiret runs up and drop kicks someone
+
+If in range: Punch > Kick
+If out of Range: Kick > DropKick
+
+
+
+Passives:
+
+Agility	  (I ):
+Constitution  (0 ): 
+Builder	  (0 ):
+Critical	  (0 ):
+HeartBreaker  (0 ):

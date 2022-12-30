@@ -40,4 +40,4 @@ Regen Breaker (I - V)
 +1 Regenerating Resource Cap
 
 Resource Breaker (I - V)
-+1 Regenerating Resource cap
++1 Resource cap

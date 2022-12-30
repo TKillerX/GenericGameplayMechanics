@@ -1,10 +1,10 @@
 Job Passives
 
 Looter (I - V): You are specialized in finding materials.
-+10% extra drops per level; +1 Rarity
++10% extra drops per level;
 
 Builder (I - V): You are specialized in creation.
-+10% quality level
++10% quality level;
 
 Farmer's Harvest (I - V): You are capable of harvesting anything. Anything.
 +10% chance to steal/disarm

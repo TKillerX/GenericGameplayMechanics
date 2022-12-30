@@ -1,6 +1,7 @@
 Loot Table
 
-Loot Amount 		: D20 + Looter
+Loot Amount 		: D20 + Modifier
+
 
 Common Material		: D20 <= 10
 Uncommon Material		: D20 >= 15
@@ -12,11 +13,11 @@ Legendary Material	: D20 >= 24
 4 Rare = 1 Legendary 
 
 Alchemist : Determines the stat of potions
-Blacksmith : Determines the stat boost of equipment
+Blacksmith: Determines the stat boost of equipment
 Architect : Determines the stat values of structure
 
 Resource Quality : Determines the quality of whatever is made
-Quality = Stat * Builder Proficiency
+Quality = Stat * Builder Proficiency + 5% per Modifier
 Quality Bonus Mutiplier = 1 + Quality/1000
 
 It takes 10 Material to craft 1 Equipment

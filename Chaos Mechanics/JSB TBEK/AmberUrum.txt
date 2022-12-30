@@ -1,0 +1,66 @@
+Amber Urum(Human)
+			
+Ability: 	Aegis (Pligmaphobia)
+Creates a shield on someone, but it damages himself.
+Madness: 	Lust
+
+Personality :Happy. Friendly.
+Hobby		:Playing Keytar
+Hates		:Hates people who don't respect what they have.
+Job 		:Lumberjack
+
+Backstory:
+His home town sacrifices a child to some unseen demon for gifts. One year his parents attempted to sacrifice their only child. After escaping he has never been happier.
+
+
+
+Stats
+Minimum Stats : Level * 25
+
+Level 1 (0/350)
+Health: 1750 -700
+Wisdom 	 	: 25
+Constitution (50%): 175
+Agility 		: 25
+Strength 	 (50%): 175 {x1.1}	192
+Intelligence	: 25
+Perception		: 25
+
+Damage Reduction	: 5%
+Chaos 		: 100%
+
+
+Combat ~ Axe(Health)
+Amber uses an axe to fight. There's nothing special about the axe of the fighting style.
+
+
+Axeless Kick (Quick)
+Start Up: Leans Forward
+A basic melee attack. 5% Health.
+
+Axe Throw(Ranged)
+Start Up: Lifts his Axe to his shoulder.
+An Axe Throw. It takes 1 turn to get the axe back.
++10% Damage.
+
+Axe Smash (Melee)
+Start Up: Lifts his Axe over his head.
+He slams his axe on his target. 10% Health.
+
+Axe Breaker (*Dodge*) {Below 25% Health}
+Start Up: Kisses his Axe and gets into a running position.
+An super heavy axe slam to the target. This breaks the axe.
++50% Damage
++Quality to Damage
+
+Order: Axe Smash > Axe Smash > Axe Throw > Axeless Kick
+
+
+Passives:
+
+Strength	  (1 ): +10%
+Constitution  (0 ):
+Lumberjack    (0 ):
+Builder	  (0 ):
+Courage 	  (0 ):
+

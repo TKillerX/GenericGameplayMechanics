@@ -13,9 +13,9 @@ III. Lose 1/2 max health for duration
 Agi : Dizzy
 I. Lose 1/4 of Damage Reduction
 II. Lose 1/2 of Damage Reduction
-III. Disable Damage reduction
+III. Disable Damage Reduction
 
-Str : Numb
+Str : Numbed
 I. Lose Half Strength
 II. Lose Half Strength then Lose 1/4 of Potency
 III. Lose Half Strength then Lose 1/2 of Potency
@@ -27,7 +27,7 @@ II. Lose Half Intelligence then Lose 1/4 of Potency
 III. Lose Half Intelligence then Lose 1/2 of Potency
 -Int Penalty : Unable to Speak
 
-Per : Blind
+Per : Blinded
 I. Lose Half Perception
 II. Lose Half Perception then Lose 1/4 of Potency
 III. Lose Half Perception then Lose 1/2 of Potency

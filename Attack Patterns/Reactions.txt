@@ -8,8 +8,8 @@ Cannot Stun Quick Attacks, there's not enough time.
 Dodge + Stun  > Range
 Cannot Avoid Range Attacks, they'll always reach you.
 
-Stun + Avoid  > Melee
-Cannot Dodge Melee Attacks, they have control over the attack.
+Stun + Avoid  > Heavy
+Cannot Dodge Heavy Attacks, they have control over the attack.
 
 
 Avoid (Run Away)
@@ -27,9 +27,9 @@ Reaction Requirement : None
 
 Stun (Attack)
 Attacks that can be broken by getting hit. These attacks have some start up time.
- Used for: Heavy Attacks
- Speed: Average
- Reaction Requirement : Fast Attack
+Used for: Heavy Attacks
+Speed: Average
+Reaction Requirement : Fast Attack
 
 
 Special Attack
