@@ -1,10 +1,10 @@
 Amber Urum(Human)
 			
-Ability: 	Aegis (Pligmaphobia)
-Creates a shield on someone, but it damages himself.
+Ability: 	None
+Amber is a positive person, but he gets no powers.
 Madness: 	Lust
 
-Personality :Happy. Friendly.
+Personality :Simple and Friendly.
 Hobby		:Playing Keytar
 Hates		:Hates people who don't respect what they have.
 Job 		:Lumberjack
@@ -17,14 +17,14 @@ His home town sacrifices a child to some unseen demon for gifts. One year his pa
 Stats
 Minimum Stats : Level * 25
 
-Level 1 (0/350)
-Health: 1750 -700
-Wisdom 	 	: 25
-Constitution (50%): 175
-Agility 		: 25
-Strength 	 (50%): 175 {x1.1}	192
-Intelligence	: 25
-Perception		: 25
+Level 2 (0/400)
+Health: 2000 (-200)
+Wisdom 	 	: 50
+Constitution (50%): 200 {x1.1}	220
+Agility 		: 50
+Strength 	 (50%): 200 {x1.1}	220
+Intelligence	: 50
+Perception		: 50
 
 Damage Reduction	: 5%
 Chaos 		: 100%
@@ -41,7 +41,7 @@ A basic melee attack. 5% Health.
 Axe Throw(Ranged)
 Start Up: Lifts his Axe to his shoulder.
 An Axe Throw. It takes 1 turn to get the axe back.
-+10% Damage.
++50% Damage.
 
 Axe Smash (Melee)
 Start Up: Lifts his Axe over his head.
@@ -59,7 +59,7 @@ Order: Axe Smash > Axe Smash > Axe Throw > Axeless Kick
 Passives:
 
 Strength	  (1 ): +10%
-Constitution  (0 ):
+Constitution  (1 ): +10%
 Lumberjack    (0 ):
 Builder	  (0 ):
 Courage 	  (0 ):

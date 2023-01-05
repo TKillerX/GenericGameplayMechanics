@@ -4,7 +4,7 @@ Ability: 	Precog (Chronophobia)
 Dodge any life-ending attack with damage lower than perception, but it activates randomly.
 Madness: 	Wrath
 
-Personality :Anxious. Aloof.
+Personality :Anxious, Aloof, Playfully Sarcastic
 Hates		:Hates people who don't respect what they have.
 Hobby		:Solving Puzzles
 Job		:Miner
@@ -17,14 +17,14 @@ Her father had a gambling addiction that made it harder and harder for Tea to li
 Stats
 Minimum Stats : Level * 25
 
-Level 1 (10/350)
-Health: 750 
-Wisdom 	 (25%): 85
-Constitution (25%): 85
-Agility 		: 25
-Strength 		: 25
-Intelligence	: 25
-Perception 	 (50%): 170 {x1.1}	177(+1)
+Level 1 (0/400)
+Health: 1000 
+Wisdom 	 (25%): 100
+Constitution (25%): 100
+Agility 		: 50
+Strength 		: 50
+Intelligence	: 50
+Perception 	 (50%): 200 {x1.1}	220
 
 Damage Reduction	: 5%
 Chaos 		: 100%
@@ -62,7 +62,7 @@ Order: Basic > Charged > Burst > Basic
 Passives:
 
 Perception	  (I ): +10%
-Looter	  (0 ):
+Looter	  (I ): +10%
 Miner's Scan  (0 ):
 Time Breaker  (0 ):
 Courage 	  (0 ):

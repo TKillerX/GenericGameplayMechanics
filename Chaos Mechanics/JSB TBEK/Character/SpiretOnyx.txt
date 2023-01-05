@@ -2,10 +2,10 @@ Spirit Onyx(Witch)
 			
 Ability: 	Transformation (Dysmorphobia)
 Spirit can transform into any shape
-Madness: 	None
-Magic:	1000% Chaos
+Madness: 	None: Permanent 300% Chaos
+Magic:	Manipulation of anything within a 2 Meter Space that they can react to.
 
-Personality	: Confident
+Personality	: Confident and Kind
 Hobby		: Sculpting
 Hates		: Witches and Magic.
 Job 		: Architect
@@ -18,16 +18,16 @@ Aether has transformed into a SoulBlade and put into a box for transport. She wa
 Stats
 Minimum Stats : Level * 25
 
-Level 1 (50/350)
-Health: 15 000 
-Wisdom 	 	: 25	{x10}	250(+2)
-Constitution (50%): 150 {x10}	1500(+15)
-Agility 	 (50%): 150 {x10}	1500(+15)
-Strength 		: 25	{x10}	250(+2)
-Intelligence 	: 25	{x10}	250(+2)
-Perception 	 	: 25	{x10}	250(+2)
+Level 2 (0/400)
+Health: 20 000 
+Wisdom 	 	: 50	{x3}	150
+Constitution (50%): 200 {1.1x} {x3}	660
+Agility 	 (50%): 200 {1.1x} {x3}	660
+Strength 		: 50	{x3}	150
+Intelligence 	: 50	{x3}	150
+Perception 	 	: 50	{x3}	150
 
-Damage Reduction: 38.7%
+Damage Reduction: 46.9%
 
 
 
@@ -58,8 +58,8 @@ If out of Range: Kick > DropKick
 
 Passives:
 
-Agility	  (I ):
-Constitution  (0 ): 
+Agility	  (I ): 10%
+Constitution  (I ): 10%
 Builder	  (0 ):
 Critical	  (0 ):
 HeartBreaker  (0 ):

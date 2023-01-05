@@ -18,6 +18,10 @@ Two Attacks are Special Attack
 Phase 4 > 5%
 All Attacks are Special Attacks
 
-3x Player Health for the 1/3 Hit Chance
+**3x Player Health for the 1/3 Hit Chance
 Multiply Health by # of Players
 Multiply Total Health by # of Phases
+
+
+Enemies with charge up skills can only have their charge broken on the last releasing turn. The reason is because they are unable to dodge attacks from the player.
+

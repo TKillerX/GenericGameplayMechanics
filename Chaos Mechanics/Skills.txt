@@ -11,6 +11,8 @@ Skills that have a before being used. The skill is broken upon taking damage, so
 4 Turns: x15  Power
 5 Turns: x25  Power
 
+Note: NPC's charge break on the last turn.
+	Player's charge break if they are hit.
 
 Regenerating Skills
 Skills that use a regenerating pool as its resource for using the skill. These skills are usually magical since the regenerating pool will usually be mana. They do not have cooldowns and can be used continiously aslong as there's enough resource.

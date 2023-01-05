@@ -1,0 +1,25 @@
+Gauge
+Gauge is a bar to determine the difficulty of a task. The percentage the main value is from the total dictates the scale of any effect that may cause. 
+
+
+Gauge: Determination
+Determination increases stats as health decreases. It starts at 100% and increases inversely as health decreases. This increased percentage gets multiplied into every stat to improve them.
+
+
+Gauge: Gathering
+Gathering increases loot that appears. It starts at 0% and as the resources are sucessfully gathered. The percentage of resources sucessfully gathered dictates the reward at the end.
+
+
+Gauge: Crafting
+Crafting increases the quality of the item being crafted. It starts at 0% and increases as the item is sucessfully being produced. The percentage of sucess multiplies the quality at the end.
+
+
+Gauge: Passive XP
+Passives have the ability to level up and this gauge dictates how likely it would be. It starts at 0% and increases based on the amount of work put into it. The percentage at the end dictates the odds of a Passive Level Up.
+Ways to increase Gauge:
+Sacrifice a Percentage of Health	
+Sacrifice a Percentage of Determination
+Sacrifice an Amount of Time 			[Hours/20]
+Complete related tasks with randomized difficulties.
+
+

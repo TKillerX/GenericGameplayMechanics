@@ -4,7 +4,7 @@ Ability: 	Mirror (Autophobia)
 Can summon clones, but cut her stats between them.
 Madness: 	Greed
 
-Personality	: Paranoid, Anxious
+Personality	: Paranoid and Shy, but otherwise gleeful and happy.
 Hobby		: Painting
 Hates		: Being alone
 Job 		: Alchemist
@@ -17,14 +17,14 @@ Scarlet has had her identity stolen by someone who looks a lot like her. Scarlet
 Stats
 Minimum Stats : Level * 25
 
-Level 1 (10/300)
-Health: 750 
-Wisdom 		: 25
-Constitution (25%): 85
-Agility 	 (25%): 85
-Strength 		: 25
-Intelligence (50%): 170
-Perception 	 	: 25
+Level 1 (0/400)
+Health: 1000 
+Wisdom 		: 50
+Constitution (25%): 100
+Agility 	 (25%): 100
+Strength 		: 50
+Intelligence (50%): 200	{1.1x}	220
+Perception 	 	: 50
 
 Damage Reduction  : 8.6%
 Chaos 		: 100%
@@ -64,7 +64,7 @@ Order: Counter > Rush > Counter/Railgun > Barrage
 Passives:
 
 Poisoned	  (I ):
-Intelligence  (0 ): 
+Intelligence  (I ): 10% 
 Alchemist	  (0 ):
 Builder	  (0 ):
 Courage 	  (0 ):

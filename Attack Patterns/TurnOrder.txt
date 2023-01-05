@@ -6,4 +6,6 @@ Turn Order
 5. Players attacks third
 Enemy gets no reactions
 
+If the player sucessfully avoids every attack from an enemies movelist, they gain a boost. {1.5x Stats}
+
 ** Being already out of range allows a range attack. 

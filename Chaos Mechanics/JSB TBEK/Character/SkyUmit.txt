@@ -4,7 +4,7 @@ Ability: 	Mirror (Autophobia)
 Is capable of levitating herself and others, but she is not used to it
 Madness: 	Gluttony
 
-Personality	: Curious
+Personality	: Curious and Problem Solving
 Hobby		: Engineering
 Hates		: Witches
 Job 		: Blacksmith
@@ -18,15 +18,16 @@ Sky had invented a glider and was using it to view her village from the sky. Sud
 Stats
 Minimum Stats : Level * 25
 
-Level 1 (50/350)
-Health: 750 
-Wisdom 	 (50%): 150
-Constitution (25%): 75
-Agility 		: 25
-Strength 		: 25
-Intelligence	: 25
-Perception 	 (25%): 75	{1.1x} 	82
+Level 2 (0/400)
+Health: 1000 (-247)
+Wisdom 	 (50%): 200
+Constitution (25%): 100
+Agility 		: 50
+Strength 		: 50
+Intelligence	: 50
+Perception 	 (25%): 100	{1.1x} 	110
 
+Chaos: 105
 Damage Reduction: 5%
 
 
@@ -38,12 +39,12 @@ Sky wields a crossboy in battle. She uses a variety of different mechanisms and 
 Basic Fire (Quick)
 Start Up: Aims with 1 Bolt
 A basic ranged attack using negativity pellets. 1 Resource.
-10% Damage.
+50% Damage.
 
 Triple Shot (Ranged)
-Start Up: Aims with 3 Bolts
+Start Up: Aims with 2 Bolts
 A ranged attack firing multiple bolts at once. 3 Resources.
-+30% Damage
++100% Damage
 
 Crossbow bash (Melee)
 Start Up: Lifts Crossbow
@@ -53,22 +54,22 @@ Sky hits a nearby person with her crossbow. 0 Resources.
 Railgun Shot (*Avoid*) {Below 25% Health}
 Start Up: Aims using 5 Bolts
 A crossbow shot that fires off everything at once. 5 Resources.
-+50% Damage
++250% Damage
 
-Order: Basic > Charged > Burst > Basic
+Order: Basic > Bash > Triple > Bash
 
 
 
 Passives:
 
 Perception	  (I ): +10%
-Builder	  (0 ):
+Builder	  (I ): +10%
 Blacksmith	  (0 ):
 Regen Breaker (0 ):
 Courage 	  (0 ):
 
 
-
+Note: Go to the Alchemist class to ask one to make fuel
 
 
 

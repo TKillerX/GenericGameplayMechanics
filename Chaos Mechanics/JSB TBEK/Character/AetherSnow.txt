@@ -4,7 +4,7 @@ Ability: 	Space/Dark (Claustrophobia and Achluophobia)
 Summons darkness, but it blinds her too.
 Madness: 	Pride
 
-Personality	: Cocky
+Personality	: Cocky and motivated
 Hobby		: Jogging Outside
 Hates		: Being alone or being in a closed space.
 Job 		: Architect
@@ -19,14 +19,14 @@ Aether has transformed into a SoulBlade and put into a box for transport. She wa
 Stats
 Minimum Stats : Level * 25
 
-Level 1 (50/300)
-Health: 1500 
-Wisdom 	 (25%): 75
-Constitution (50%): 150
-Agility 	 	: 25
-Strength 		: 25
-Intelligence (25%): 75
-Perception 	 	: 25
+Level 2 (0/400)
+Health: 2000 
+Wisdom 	 	: 50
+Constitution (50%): 200
+Agility 	 (25%): 100
+Strength 		: 50
+Intelligence (25%): 100 {1.1x}	110
+Perception 	 	: 50
 
 Damage Reduction: 5%
 
@@ -61,8 +61,8 @@ Order: Pull > Push > Wave > Push
 
 Passives:
 
-Blinder	  (I )
-Intelligence  (0 ): 
+Blinder	  (I ):
+Intelligence  (I ): 
 Builder	  (0 ):
 Alchemist	  (0 ):
 Courage 	  (0 ):
