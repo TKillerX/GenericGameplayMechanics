@@ -1,17 +1,17 @@
 JoAT (Jack of All Trades) : [D4]	12/10/10
 	Everything, Everywhere, All at Once
 	Using everything possible to win
-	Special Ability: Blood Count. D4 is the blood count. Multiply power and drain by blood count. Take the drain straight to health. Every time a 4 is rolled, roll again and add.
+	Special Ability: Sacrifice. Sacrifice Health for more base power.
 
 Shapeless
 This class has no Bonus Dice
 Bonus dice comes from using abilities from other classes
 
 Equipment: 
-JoAT: Blood Count
-[Common]: 		+1 Blood Count
-[Uncommon]: 	+2 Blood Count
-[Rare]: 		+4 Blood Count
+JoAT: Sacrifice
+	[Common]: 		+10% Extra Sacrifice
+	[Uncommon]: 	+25% Extra Sacrifice
+	[Rare]: 		+50% Extra Sacrifice
 
 JoAT ~ Liquid	[No Own status Effects]
 

@@ -1,27 +1,26 @@
-Spirit: [D6]	10/ 10/ 10
+Spirit	: [D6]	10/ 10/ 10
 	Invincible, Untouchable, Intelligent
 	Use your adaptability to survive
-	Special Ability: Precognition. Take dice of hit below Level + Wis Mod. Saved 	until used. 
-	Note: Takes Dice from Speed if the first attack misses, will still be hit by Course Correct
+	Special Ability: Precognition. 2x Precog Boon
 
 Spirit
 This class scales off wisdom.
 Bonus dice comes successfully using precog. This dice does not drain.
 
 JoAT: Precognition
-[Common]: 		+1 Precognition
-[Uncommon]: 	+2 Precognition
-[Rare]: 		+4 Precognition
+	[Common]: 		+10% Precog
+	[Uncommon]: 	+25% Precog
+	[Rare]: 		+50% Precog
  
 JoAT ~ Focused	[Lasts until hit] [Don’t Stack]
 Brain		[Self]	[Dice Up] 	(Max at +10)
-Eye		[Self]	[Hit Up]	(Max at +10)
-Mouth		[Opp]		[Move Down]	-Movement = Power/100
+Eye		[Self]	[Wis Up]
+Mouth		[Self]	[Cha Up]
 Lungs		[Self]	[SP Recov]
 Heart		[Self]	[HP Recov]
-Spine		[Self]	[Hit Down]	(Max at -10)
+Spine		[Opp]		[Move Down]	-Movement = Power/100
 Base		[Self]	[Defense]
 
 Status Modifier : [Status Ideal] 30% Power * the # of Ideal Counters. Add 1 Ideal Counter to the target. 
 
-Finisher: Tremor! 10% of power is damage that hits all enemies in a [3 x 3] of an enemy that takes damage from Tremor. [Once per target]
+Finisher: Tremor! A skill with 10% Chain Power as power that hits all enemies in a [3 x 3] of an enemy that takes damage from Tremor. [Once per target]

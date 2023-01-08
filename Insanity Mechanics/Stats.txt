@@ -1,32 +1,48 @@
 Starting Stat Points: 10 at Lvl 1
-5 Stat Points per level until Level 5
-Gain stat points = to the next level
+5 Stat Points per level until Level
 
 Health/Stam/Mana Scale
-Scale * 10 * (Level + Stat)
+Health * 10 * (Level + Stat)
 
-Str > Melee Damage
-Con > Health and Defense
-Dex > Stamina and Dodge
-Int > Mana and Magic Damage
-Wis > Perception
-Cha > Talking
+Con > Health
+Wis > Practice
+Cha > Social
+Str > Melee
+Dex > Speed
+Int > Memory
 
-Modifier : Stat/10  rounded down
 
 ~Hit Chance~
-Add attacking Stat’s Modifier to roll
-Attacking vs Dodge/Defense (Use Higher One)
+{See Attack Patterns}
 
-~Armor Class (AC)~
-Dodge Class: 10 + Dex Mod (Max +5)
-Defense Class: 10 + Con Mod (Max +5)
+~Boons Pool~
+Quick Boon: Dex/4
+Dodge Boon: Int/4
+Block Boon: Str/4
+
+Precog   Boon: Wis/2
+Charisma Boon: Cha/10 * # of Allies
 
 ~Damage Types~
-Magic Damage : Ignores 50% of Dodge Class
-Slashing Damage :Decrease Dodge Class by Attacking Stat’s Mod, permanently if hit.
-Piercing Damage :Decrease Defense Class by Attacking Stat’s Mod, permanently if hit.
-Bludgeoning Damage : Ignores 50% of Defense Class
+Magic Damage 	 : Disable Dodge for 1 Turn
+Slashing Damage 	 : Disable Quick Attack for 1 Turn
+Bludgeoning Damage : Disable Blocking for 1 Turn
 
 ~Power~
 Every 20 Power is 1 Stack of a Status
+
+~~Win Conditions~~
+	With a status effect oriented combat, to win the fighter can either debuff a majority of stats to 0, or win due to health decrease.
+
+	Con Debuff > Health. 	Zero is a KO
+	Dex Debuff > Speed. 	Cannot Quick Attack.
+	Wis Debuff > Practice.	Skills cast randomly.
+	Cha Debuff > Social. 	Skills target randomly.	
+	Str Debuff > Melee. 	Cannot Block.
+	Int Debuff > Memory. 	Cannot Dodge.
+
+	Con >> Zero: 		KO'd
+
+	Dex/Str/Int >> Zero: 	Paralyzed
+
+	Wis/Cha > Zero:		Confused, Unable to Fight

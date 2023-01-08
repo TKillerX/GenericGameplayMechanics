@@ -1,12 +1,23 @@
 Effects
 Modifier Crits : Perfect and Inferior
-Modifiers are how good you are at whatever you do. Doing something easy should have you be perfect the majority of the time. Therefore, perfection will be attainable more often.
+Perfection: Avoiding all negative consequences in a series of skill checks
+Inferior  : Taking all negative consequences in a series of skill checks
 
-Perfection : 10 over a success is a critical success or a nat 20.
 
-In combat 	[IC]	Double Damage Die
-Out of combat [OC]	Succeed without any negative consequences.
+In combat 	  [IC]  Perfect:  2x All Boons; Boons are Drainless
+			  Inferior: 0.5x All Boons until the end of the series
+Out of combat [OC]  Perfect:  2x Reward
+			  Inferior: x0 Reward
 
+
+
+
+
+
+
+
+
+{To Be Deleted}
 Strength	[IC] For: Dazed For a Turn	[IC] Against: Self Injury
 [OC] Destroy or Carry without injury
 

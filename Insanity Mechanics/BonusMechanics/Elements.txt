@@ -6,5 +6,5 @@ Liquid	[Water] +Dexterity, Intelligence	-Constitution, Strength
 Gas		[Air	] +Constitution, Dexterity	-Intelligence, Strength
 Aether	[Fire	] +Intelligence, Strength	-Constitution, Dexterity
 
-Time		[Light] +Damage Reduction		-Damage Done
-Space		[Dark	] +Damage Done			+Damage Taken
+Time		[Light] +Power Reduction		-Power
+Space		[Dark	] +Power			      +Power Taken

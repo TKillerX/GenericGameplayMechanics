@@ -7,23 +7,23 @@ Intercept Attack: If an entity runs within melee range past another hostile enti
 ~Terrains~
 
 [Half Down] : 1 Meter Down
-	+3 To AC, -3 To Hit
+	+30% Defense,  -30% Quick
 [Full Down] : 2 Meters Down
-	Disadvantage for Both Parties
+	+50% Defense,  -50% Quick
 [PitFall] : 4 Meters Down
-	Trapped: No Attack; Attacker: Disadvantage
+	+100% Defense; -100% Quick
 
 [Half Up] : 1 Meter Up
-	+3 To Hit; -3 To AC
+	+30% Dodge,  -30% Quick
 [Full Up] : 2 Meter Up
-	Advantage to Both Parties
+	+50% Dodge,  -50% Quick
 [Column] : 4 Meters or to Ceiling
-	Trapped: No Attack, Attacker: Disadvantage
+	+100% Dodge,  -100% Quick
 
 [Half Slow] : -2 Movement Speed
 [Full Slow] : -6 Movement Speed
 [Stopped]   : 1 Turn of Movement
 
-[Small Hazard] : 10% Total Health Damage
+[Small Hazard]  : 10% Total Health Damage
 [Medium Hazard] : 30% Total Health Damage
-[Large Hazard] :60% Total Health Damage
+[Large Hazard]  : 60% Total Health Damage

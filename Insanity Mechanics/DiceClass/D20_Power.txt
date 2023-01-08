@@ -1,10 +1,10 @@
-Power : [D20] 	10/ 8/ 12
+Power 	: [D20] 	10/ 8/ 12
 	Powerful, Risky, Dangerous
 	Quick burst of power. Lose energy at a rapid pace.
-	Special Ability: Rapid Attack: Can roll to hit again with another drain.
+	Special Ability: Course correct. 2x Dodge Boon.
 
 Sink
-Increases with mana cost. No Cap for Maximum Dice.
+Increases with mana cost. No Cap for Maximum Boon.
 The brighter the candle the shorter the lifespan.
 
 Power: Efficiency
@@ -23,5 +23,5 @@ Lock Down	[Opp]		[Lock]	-Power
 
 Status Modifier : [Status Wheel] 50% Power To Stack for 3 Turns 
 
-Overload! Add 10% of total chain power to damage.
+Overload! A skill with Chain Power as power
 

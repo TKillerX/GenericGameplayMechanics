@@ -1,27 +1,26 @@
-Love : [D12] 	10/ 12/ 8
+Love 		: [D12] 	10/ 12/ 8
 	Different, Dangerous, Delicious?
 	Fighting alone on a team
-	Special Ability: Wear Down, Damage instead goes to Stamina. AoE, but split power.
+	Special Ability: Universal. Debuffs effect all stats.
 
 Speaking Skills
 Scales with Charisma, +5% per teammate
-The target will break down under constant strain.
-	Landing Calc: D20 + Cha Mod vs 10 + Wis Mod
+
 
 Love: Stamina
-[Common]: 		+2 Stamina Bar Scale
-[Uncommon]: 	+4 Stamina Bar Scale
-[Rare]: 		+8 Stamina Bar Scale
+[Common]: 		+2 Health Scale
+[Uncommon]: 	+4 Health Scale
+[Rare]: 		+8 Health Scale
 
 Love ~ Buffer and Debuffer	[Permanent] [Stack]
-Do	[Opp]		[Modifier Down]	(Max at -10)
+Do	[Opp]		[Boon Down]
 Re 	[Opp]		[Stat Down]
 Mi	[Opp]		[Status Shield]
 Fa 	[Opp]		[Damage Shield]
 So	[Opp]		[Stat Up]
-La	[Opp]		[Modifier Up]	(Max at +10)
+La	[Opp]		[Boon Up]
 Ti	[Opp]		[HP Recov]
 
 Status Modifier : [Status Zeal] 200% Power to Single Target
 
-Finale! Reduce Stamina equal to Total Chain Power.
+Finale! Lock Power equal to Total Chain Power.
