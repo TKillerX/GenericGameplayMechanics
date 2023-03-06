@@ -37,16 +37,16 @@ Scarlet's clones spin clockwise. She uses her clones to attack.
 
 
 Clone Counter (Quick)
-Start Up: Scarlet Blocks
+Start Up: Stance/Block/Wait/Suprise
 A clone appears and attacks the target. 0 Clones
 
 Clone Rush (Heavy)
-Start Up: Scarlet gets into a running stance. 2 clones
+Start Up: Stance/Run/Lunge/Powerful 2 clones
 Scalet lunges and a clone fires themselves at the target.
 +200% Damage.
 
 Clone Barrage (Charge)
-Start Up: Scarlet gets into a fighting stance. 2 clones
+Start Up: Stance/Block/Fight/Aim 2 clones
 Scarlet summons clones to do a barrage of attacks on the target.
 +200% Damage.
 

@@ -35,21 +35,21 @@ Tea condenses negativity and fires them as a small bead towards her target. The 
 
 
 Basic Pellet (Quick)
-Start Up: Points
+Start Up: Stance/Points/Ball/Fast
 A basic ranged attack using negativity pellets. 0 Turns.
 
 Charged Pellet (Charge)
-Start Up: Points with charged energy
+Start Up: Stance/Points/Aura/Homing
 A charged pellet using the negativity in the air. 1 Turn.
 +150% Damage
 
 Pellet burst (Heavy)
-Start Up: Raises Fist
+Start Up: Stance/Fist/Ball/Forceful
 A charged pellet burst using negativity in a small AoE. 1 Turn
 +150% Damage
 
 Final Burst (*Unavoidable*) {Below 25% Health}
-Start Up: Points with Massive Energy
+Start Up: Points with Nuclear
 An ubercharged pellet with all the negativity she can hold. 5 Turns.
 +2400% Damage
 

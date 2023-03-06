@@ -8,30 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8760dcfcd0f09148",
+            "id": "48c3ab35c806c3f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chaos Mechanics/JSB TBEK/Character/TeaLazuli.md",
+                "file": "Madness Mechanics/_Main.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "10f454bff3013b79",
+            "id": "e50f0f520e8c947f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chaos Mechanics/PassiveList/PassiveJob.md",
+                "file": "Madness Mechanics/Characters/Alex Keppel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abe986c9519608a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Madness Mechanics/Characters/Maxwell Mauve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "368f4e443160633b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Madness Mechanics/Characters/Trevor Citrine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454406dae2dfcfbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Madness Mechanics/Characters/Alex Keppel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a36212236a1f8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -60,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Order",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chaos Mechanics/JSB TBEK/Character/TeaLazuli.md",
+                "file": "2023-03-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chaos Mechanics/JSB TBEK/Character/TeaLazuli.md",
+                "file": "2023-03-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chaos Mechanics/JSB TBEK/Character/TeaLazuli.md"
+                "file": "2023-03-06.md"
               }
             }
           }
@@ -158,17 +207,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8760dcfcd0f09148",
+  "active": "1a36212236a1f8b1",
   "lastOpenFiles": [
-    "Chaos Mechanics/PassiveList/PassiveJob.md",
-    "Chaos Mechanics/JSB TBEK/Character/TeaLazuli.md",
-    "Chaos Mechanics/JSB TBEK/Character/SpiretOnyx.md",
-    "Chaos Mechanics/PassiveList/PassiveSkills.md",
-    "Chaos Mechanics/PassiveList/PassiveStat.md",
-    "Chaos Mechanics/PassiveList/PassiveGauge.md",
-    "Chaos Mechanics/JSB TBEK/Character/AmberUrum.md",
-    "Chaos Mechanics/JSB TBEK/Character/AetherSnow.md",
-    "Chaos Mechanics/JSB TBEK/Character/KloraPhil.md",
-    "Chaos Mechanics/JSB TBEK/Character/ScarletSol.md"
+    "2023-03-06.md",
+    "Madness Mechanics/Characters/Kelli Raccoon.md",
+    "Madness Mechanics/Characters/Trevor Citrine.md",
+    "Madness Mechanics/Characters/Maxwell Mauve.md",
+    "Madness Mechanics/Characters/Alex Keppel.md",
+    "Madness Mechanics/_Main.md",
+    "Madness Mechanics/Missions/Survive.md",
+    "Madness Mechanics/Missions/Find.md",
+    "Madness Mechanics/Missions/Escape.md",
+    "Madness Mechanics/Magic Y.md",
+    "Madness Mechanics/Magic Interactions.md"
   ]
 }

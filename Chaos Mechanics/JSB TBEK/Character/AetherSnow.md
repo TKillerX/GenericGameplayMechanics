@@ -38,15 +38,15 @@ Aether uses magic to apply damaging forces to objects. This requires time to cas
 
 
 Cosmic Push (Quick)
-Start Up: Points fist at target
+Start Up: Magic/Basic/Fist/Fast
 A basic magic push. 0 Turns
 
 Cosmic Pull (Charge)
-Start Up: Points palm at target
+Start Up: Magic/Basic/Palm/Focus
 A basic magic pull. 0 Turns
 
 Cosmic Wave (Heavy)
-Start Up: Puts both hands infront of her.
+Start Up: Magic/Advance/Hands/Powerful
 A wave of force. 2 Turns.
 x5 Damage.
 

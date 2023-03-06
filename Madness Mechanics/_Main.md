@@ -1,0 +1,1 @@
+An general system for anything the world may throw at you. There is freedom to do anything and everything as long as the conservation of energy is remembered. There's also ways to cheat it. This game relies on keeping track of resources and understand how far they can take you.

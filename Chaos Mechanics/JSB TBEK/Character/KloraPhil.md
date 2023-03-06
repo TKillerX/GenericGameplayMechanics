@@ -37,22 +37,22 @@ Klora wields a chainsaw fueled by negativity. As the combat continues, the chain
 
 
 Chainsaw Bash (Quick) (1)
-Start Up: Lifts Chainsaw
+Start Up: Melee/Chainsaw/Crash/Swift
 A basic melee attack using the chainsaw. 
 +100% Damage.
 
 Vine Whip (Charge)
-Start Up: Vines Appear around Klora
+Start Up: Magic/Vines/Grab/Seeking
 A negativity fueled plant attack. Does Damage to both target and Klora.
 +25(Passive)
 
 Chainsaw Grind (Heavy) (2)
-Start Up: Revs up Chainsaw
+Start Up: Melee/Chainsaw/Grind/Powerful
 An attack that uses up fuel for extra damage.
 +200% Damage
 
 Overgrowth (*Avoid*) {Below 25% Health}
-Start Up: Plants disable the chainsaw
+Start Up: Plants jam chainsaw
 Klora releases all her negativity into a vine caccoon.
 Numb Status
 +25(Passive)

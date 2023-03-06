@@ -49,7 +49,7 @@ Spiret Kicks.
 
 DropKick (*Avoid*) {Below 25% Health}
 Start Up: Spiret is in a different fighting stance
-Spiret runs up and drop kicks someone
+Spiret runs up and drop kicks
 
 If in range: Punch > Kick
 If out of Range: Kick > DropKick

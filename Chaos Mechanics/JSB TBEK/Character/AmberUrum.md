@@ -35,20 +35,20 @@ Amber uses an axe to fight. There's nothing special about the axe of the fightin
 
 
 Axeless Kick (Quick)
-Start Up: Leans Forward
+Start Up: Melee/Simple/Legs/Surpise
 A basic melee attack. 5% Health.
 
-Axe Throw(Ranged)
-Start Up: Lifts his Axe to his shoulder.
+Axe Throw(Charge)
+Start Up: Stance/Axe/Shoulder/Aim
 An Axe Throw. It takes 1 turn to get the axe back.
 +50% Damage.
 
-Axe Smash (Melee)
-Start Up: Lifts his Axe over his head.
+Axe Smash (Heavy)
+Start Up:Melee/Axe/Arms/Big
 He slams his axe on his target. 10% Health.
 
 Axe Breaker (*Dodge*) {Below 25% Health}
-Start Up: Kisses his Axe and gets into a running position.
+Start Up: Kisses his Axe
 An super heavy axe slam to the target. This breaks the axe.
 +200% Damage
 +Quality to Damage
