@@ -1,0 +1,2 @@
+
+A system about swarms of enemies vs individual cooked ones. This combat oriented system revolves around maximizing endurance and efficiency when faced with waves of enemies. Turns are simplified to allow for quicker combat.

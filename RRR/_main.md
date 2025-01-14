@@ -1,0 +1,1 @@
+A combat system that tries to make every play style unique. There's variation in three factors. The combat roles, the combat speeds, and the combat types. This allows 27 Base Variations.

@@ -1,0 +1,1 @@
+A deck builder system that uses combos and style to rack up score to preform finishing moves. The game continues to ramp high and higher until everyone decides to stop. Events and rewards are all procedurally generated. The game is broken up with unique special cards that can change the game.

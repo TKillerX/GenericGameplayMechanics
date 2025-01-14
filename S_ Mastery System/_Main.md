@@ -1,0 +1,1 @@
+A system for acquiring custom skills based on demand. Any action has a base small chance to succeed which can be increased. When that action reaches 100% it is mastered and an official skill.

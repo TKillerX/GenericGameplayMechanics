@@ -1,0 +1,8 @@
+![[Animen Species#^Rakin]]
+Creation: Rakin are raccoons who honed their speed and reflexes to survive. This mastery over their own time allowed them to manipulate it. They evolved to stand upright more often so they can use tools and reach higher places.
+
+Description: A bipedal raccoon with the ability to create portals through time where they can steal almost anything from almost anywhere. They use this power not only for taking, but for security. They can see when something they have will be stolen and prepare accordingly. Rakin's Chronomancy interfere with each other. When chronomancy is in a moment, Rakin's cannot see into it, but they can still make portals through it.
+
+Lifestyle: Steal or be stolen from. The Rakin's advanced from stealing other ideas and building upon them. They advance stealing tactics and security. They typically live with other species because stealing from a fellow Rakin is very difficult. Predominantly Rakin cities however are tightly packed, allowing interference from other residents to protect their valuables.
+
+Inventions: The Security System capable of recording, storing, and playing back data. It has cameras that can detect magical interferences and send signals across long distances to alert a Rakin of issues. Some computer games were invented by bored Rakins watching a security system. Rakin also invented mechanical weaponry and traps to deal with intruders. They were not the ones to invent a power source for these things, their prototypes took energy from the future which very quickly lead to cataclysmic failures.

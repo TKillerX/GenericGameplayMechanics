@@ -1,152 +1,196 @@
 {
   "main": {
-    "id": "168081e58f6e02c2",
+    "id": "32685599211a132d",
     "type": "split",
     "children": [
       {
-        "id": "6f4ff1443b86df0f",
+        "id": "d739ee59f04b78f2",
         "type": "tabs",
         "children": [
           {
-            "id": "48c3ab35c806c3f8",
+            "id": "1777660906bc8f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Madness Mechanics/_Main.md",
+                "file": "M_ Lunacy Mechanics/ANIMEN BEASTIARY.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ANIMEN BEASTIARY"
             }
           },
           {
-            "id": "e50f0f520e8c947f",
+            "id": "3406eb6eced893bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Madness Mechanics/Characters/Alex Keppel.md",
+                "file": "Animen World/Magic Extremes 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Magic Extremes 1"
             }
           },
           {
-            "id": "abe986c9519608a3",
+            "id": "5c9bb20131cf269c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Madness Mechanics/Characters/Maxwell Mauve.md",
+                "file": "RRR/Classes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Classes"
             }
           },
           {
-            "id": "368f4e443160633b",
+            "id": "007e2720126ede4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Madness Mechanics/Characters/Trevor Citrine.md",
+                "file": "M_ Untitled Mechanics/Cards - Sqecial.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cards - Sqecial"
             }
           },
           {
-            "id": "454406dae2dfcfbd",
+            "id": "4790785f187080d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Madness Mechanics/Characters/Alex Keppel.md",
+                "file": "M_ Lunacy Mechanics/14. Enemy AI.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "14. Enemy AI"
             }
           },
           {
-            "id": "1a36212236a1f8b1",
+            "id": "a9e9d917aa338ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-03-06.md",
+                "file": "M_ Anarchy Mechanics/_Main.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "_Main"
+            }
+          },
+          {
+            "id": "01ee459e0e7cc99a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M_ Chaos Mechanics/Animen Soul/Chapters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapters"
+            }
+          },
+          {
+            "id": "b56c0585e980c2e3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.7"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d509841f2538380e",
+    "id": "591967ec9d0b84fd",
     "type": "split",
     "children": [
       {
-        "id": "c4e191c23bfc6e0a",
+        "id": "58f2a0c13f988668",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ab29a40c61288a",
+            "id": "dcd388673fcd857c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "741987c2f3080dc5",
+            "id": "de76cbfb110c13ba",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Order",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "cd8d279937e3c0e7",
+            "id": "27eba30180f14b5f",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "1797aedcdcdd2c98",
+    "id": "04607749ab2df351",
     "type": "split",
     "children": [
       {
-        "id": "725018da54174216",
+        "id": "97bfcead4ea3c52c",
         "type": "tabs",
         "children": [
           {
-            "id": "923ce747c4826dc9",
+            "id": "5568294034da7f79",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-03-06.md",
+                "file": "RRR/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,47 +198,55 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
             }
           },
           {
-            "id": "59cbcbbd10e5cfc6",
+            "id": "57461b1ca9e411b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-03-06.md",
+                "file": "RRR/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
             }
           },
           {
-            "id": "daf29c2f4242101d",
+            "id": "1bffc7708dab363c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "7471970fa0d77eca",
+            "id": "7b4cb487e4bfba4f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-03-06.md"
-              }
+                "file": "RRR/Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -207,18 +259,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a36212236a1f8b1",
+  "active": "5c9bb20131cf269c",
   "lastOpenFiles": [
-    "2023-03-06.md",
-    "Madness Mechanics/Characters/Kelli Raccoon.md",
-    "Madness Mechanics/Characters/Trevor Citrine.md",
-    "Madness Mechanics/Characters/Maxwell Mauve.md",
-    "Madness Mechanics/Characters/Alex Keppel.md",
-    "Madness Mechanics/_Main.md",
-    "Madness Mechanics/Missions/Survive.md",
-    "Madness Mechanics/Missions/Find.md",
-    "Madness Mechanics/Missions/Escape.md",
-    "Madness Mechanics/Magic Y.md",
-    "Madness Mechanics/Magic Interactions.md"
+    "M_ Untitled Mechanics/Cards - Enemy Deck.md",
+    "M_ Delerium Mechanics/_Main.md",
+    "M_ Delerium Mechanics/Score and Overload.md",
+    "M_ Delerium Mechanics/Score and Combo.md",
+    "M_ Delerium Mechanics/Player Rules.md",
+    "M_ Delerium Mechanics/Cards.md",
+    "M_ Delerium Mechanics/Cards - Treasure Cards.md",
+    "M_ Delerium Mechanics/Cards - Stats.md",
+    "M_ Delerium Mechanics/Cards - Starter Deck.md",
+    "M_ Delerium Mechanics/Cards - Sqecial.md",
+    "M_ Delerium Mechanics/Cards - Event Deck.md",
+    "M_ Delerium Mechanics/Cards - Enemy Deck.md",
+    "M_ Delerium Mechanics/Cards - Enemy Deck - Build.md",
+    "M_ Delerium Mechanics/Cards - Effects.md",
+    "M_ Delerium Mechanics/Cards - Deck Rules.md",
+    "M_ Delerium Mechanics",
+    "M_ Untitled Mechanics/Cards - Event Deck.md",
+    "M_ Untitled Mechanics/Cards - Enemy Deck - Build.md",
+    "M_ Untitled Mechanics/Cards - Effects.md",
+    "M_ Untitled Mechanics/Cards - Deck Rules.md",
+    "M_ Untitled Mechanics/Cards - Sqecial.md",
+    "M_ Untitled Mechanics/Player Rules.md",
+    "M_ Untitled Mechanics/Score and Combo.md",
+    "M_ Untitled Mechanics/Cards - Starter Deck.md",
+    "M_ Untitled Mechanics/Cards - Treasure Cards.md",
+    "M_ Untitled Mechanics/Cards - Stats.md",
+    "M_ Untitled Mechanics/Cards.md",
+    "M_ Untitled Mechanics",
+    "RRR",
+    "M_ Chaos Mechanics/Animen Soul",
+    "M_ Anarchy Mechanics",
+    "S_ Mastery System",
+    "X_X Dead",
+    "Pasted image 20230418171052 (2024_02_07 19_41_04 UTC).png",
+    "S_ Score System",
+    "Animen World/Pictures/Pasted image 20230710204555.png",
+    "Animen World/Pictures/Pasted image 20230622235400.png",
+    "Animen World/Pictures/Pasted image 20230622235352.png",
+    "Animen World/Pictures/Pasted image 20230622235322.png",
+    "Animen World/Pictures/Pasted image 20230622235312.png",
+    "Animen World/Pictures/Pasted image 20230622235304.png",
+    "Animen World/Pictures/Pasted image 20230622235256.png",
+    "Animen World/Pictures/Pasted image 20230622233639.png",
+    "Animen World/Pictures/Pasted image 20230622232759.png",
+    "Animen World/Pictures/Pasted image 20230622230027 "
   ]
 }

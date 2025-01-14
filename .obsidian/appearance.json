@@ -1,4 +1,5 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Lucida Console"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Courier New"
 }
