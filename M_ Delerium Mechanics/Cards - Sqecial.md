@@ -1,5 +1,6 @@
+Special cards can be active or inactive. Special card are always inactive while in the stack. Special cards cannot be played while inactive. To activate a special card, the special condition must be met. Then, on your turn, you may play your special card as if it was a card in hand, but it cannot be discarded. Special cards stay inactive even between events.
 ### Time
-1. Special Card: Create a secondary event stack. Remove temporarily remove all cards in hand from play. Everyone draws 7 cards. Once that stack finishes, add the combo of that stack to this one.
+1. Special Card: Create a secondary event stack. Remove temporarily remove all cards in hand from play. Everyone draws 7 cards. Once that stack finishes, add the combo of that stack to this one. Shuffle all cards back into their decks.
 2. Special Effect: This card has the score of a finisher
 3. Special Condition: Combo Count Multiple of 10
 
@@ -12,18 +13,18 @@
 ### Multi
 1. Special Card: Search the deck
 1. Special Effect: Duplicate a card effect by Score Tier
-2. Special Condition: A Duplicate is played
+2. Special Condition: Two identical cards are played on top of each other
 
 
 ### Dark
 1. Special Card: (Passive) Must be targeted. Double the speed combo goes up. This passive breaks once hand is empty.
 2. Special Effect: Play this card on another's turn
-3. Special Condition: Lose all in a gauge
+3. Special Condition: Run out of cards in deck
 
 ### Bright
 1. Special Card: (Passive) Immune to effects. Breaks when a Target or All card is played.
 2. Special Effect: Play this card face down. It's a wild card. It's cheap.
-3. Special Condition: A player has zero cards in hand
+3. Special Condition: A player has zero cards in deck
 
 
 ### Light

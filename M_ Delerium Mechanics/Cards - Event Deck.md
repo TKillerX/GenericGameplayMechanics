@@ -6,19 +6,38 @@ A deck of general obstacles
 - (2000) - Tier 4 - Impossible
 
 How to Use
-When making an event check, select the card that matches the difficulty of the check. Additionally, select the card that is one higher and one lower in difficulty. If there is none higher or lower, skip it. Then select one of those cards at random.
+When making an event check, select the card that matches the difficulty of the check. Additionally, select the card that is one higher and one lower in difficulty. If there is none higher or lower, skip it. Then, the event initiator will select one of those cards at random.
 
 How to Use, Roguelike
-Shuffle All Events together
-Pass an event by discarding a card
+Shuffle All Events together, then flip the top event card to the top of the stack. That will be the event. Skip players with no cards in hand. Once a stack is done, play the next event to the top of that stack.
+
+Pass an event by discarding a card on top of the event
 - Enemy events cannot be passed
 
 Initiate an event by playing a card
 - The card must match the event
+- The event card that is initiated cannot be recycled
 
-Reward cards as if the event was an enemy event except with no cards from the treasure pile
+Fail an event by not reaching the threshold
+- A failed event deals 1 damage to all participating players
+
+An event is cleared once the score threshold is reached. A card must be played to get event rewards. Decks are shuffled at the end of the event.
+
+Clearing an event allows crafting a card. The reward depending on each player's score.
+- (0) - Tier 0 - Random non-Treasure card
+- (500) - Choose 1
+- (1000) - Choose 2
+- (1500) - Choose 3
+- (2000) - Choose 4
+
+The player can choose between Element, Energy, Status, and Stat to guarantee a new card will have. The others will be randomly selected and created. The player then has the choice of taking that reward or not.
+
+Treasure Cards
+Enemy events drop treasure cards to the player with the highest score. That player may choose the treasure card effect or choose the unique ability of their Special.
 
 
+
+Basic Event Cards
 STR - Lift Power/ Roadblocks
 - Tier 0 - Sticks
 - Tier 1 - Rocks

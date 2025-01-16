@@ -1,5 +1,5 @@
-Classes -> Gameplay
-- Combo - Keep Going
+### Energy -> Gameplay
+- **Entropy** (Combo) - Keep Going
 	- Draw 1
 	- Draw 2
 	- Discard 2, Draw 3
@@ -7,7 +7,7 @@ Classes -> Gameplay
 	- All Draw 2
 	- All Draw 3
 	 
-- Discard - Stop Going
+- **Release** (Discard) - Stop Going
 	- Target Discard 1
 	- Target Discard 2
 	- Target Discard 3, Recycle 1
@@ -15,7 +15,7 @@ Classes -> Gameplay
 	- All Discard 2
 	- All Discard 3
 
-- Recycle - Restart
+- **Order** (Recycle) - Restart
 	- Discard 1, Recycle 1
 	- Recycle 1
 	- Discard 2, Recycle 2
@@ -23,7 +23,7 @@ Classes -> Gameplay
 	- All Recycle 1
 	- All Recycle 2
 	
-- Turn - Change
+- **Contain** (Turn) - Change
 	- Reverse Turn
 	- Discard 3, Take Turn
 	- Target Reverse Turn
@@ -32,32 +32,18 @@ Classes -> Gameplay
 	- Target Take 2 Turns
 
 
-Elements -> Conditions
-- Skill Tiers (Score) - Multi
-	- (0) - Tier 0 - 1.5x
-	- (50) - Tier 1 - 2x
-	- (100) - Tier 2 - 3x
-	- (150) - Tier 3 - 4x
-	- (200) - Tier 4 - 5x
-	  
-- Fire - Score
-	- if Score > Tier Condition, Multiply score by Tier Multi/10
-- Earth - Defense
-	- if Score > Tier Condition, Unaffected by lower tier
-- Ice - Stop
-	- if Score > Tier Condition, Negate next tier below
+### Elements -> Conditions
+- Fire - Damage
+	- Deal 1 damage for every Fire Card
+- Earth - Score
+	- Block 1 damage for every Earth Card
+- Ice - Reset
+	- Reshuffle 1 target card for every Ice Card
 - Wind - Combo
-	- if Score > Tier Condition, increase combo count by tier
+	- Increase combo by 1 for ever Wind Card
 
-Status -> Disruption
-- Skill Tiers (Score) - Multi
-	- (0) - Tier 0 - 1.5x
-	- (50) - Tier 1 - 2x
-	- (100) - Tier 2 - 3x
-	- (150) - Tier 3 - 4x
-	- (200) - Tier 4 - 5x
-	
-	- Sickness/Fatigue/Numb/Blind : Status
-		- Divide stats by Tier Multi
-		- Turns = Skill Tier
-		- 0.5x Score
+### Status -> Disruption
+- Numb - The next STR card is discarded
+- Fatigue - The next AGI card is discarded
+- Blind - The next PER card is discarded
+- Sickness - The next MAG card is discarded

@@ -1,9 +1,11 @@
+Once 10000 total score is reached, search the event deck for the appropriate Overload. That is now the event. Shuffle all cards back into their respective decks and draw 5 cards. The player with the highest score goes first.
+
 ### Strength Overload
 Too much energy has been released in a single area. Wisps have spawned to deal with it. They suck all the energy out of the area on contact and distribute it elsewhere. You must burn all the energy yourself or have your energy taken. Harness the extra energy and overload yourself.
 
 Wisp Event Card
 10000 Score Threshold Mag
-Special Ability Guaranteed
+Treasure Guaranteed to all that reach threshold
 
 Draw 1 card at the beginning of every turn
 Double combo count

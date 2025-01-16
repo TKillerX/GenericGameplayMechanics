@@ -17,8 +17,8 @@ Tier 4 - 25
 2 Enemy - Flip 2 Cards
 3 Enemy - Flip 3 Cards
 
-Similar stat enemy cards add the threshold
-Different stat enemy cards are played consecutive without reshuffling deck
+Similar stat enemy cards add to the threshold.
+Different stat enemy cards are played on the stack and must also be dealt with.
 
 ### Random Event Modifier
 - Conditions
