@@ -32,15 +32,15 @@
 	- Target Take 2 Turns
 
 
-### Elements -> Conditions
-- Fire - Damage
-	- Deal 1 damage for every Fire Card
-- Earth - Score
-	- Block 1 damage for every Earth Card
-- Ice - Reset
-	- Reshuffle 1 target card for every Ice Card
-- Wind - Combo
-	- Increase combo by 1 for ever Wind Card
+### Energy -> Conditions
+- Release - Damage
+	- Deal 1 damage for every Release Card
+- Contain - Cards
+	- Draw 1 card for every Contain Card
+- Order - Reset
+	- Reshuffle 1 target card for every Order Card
+- Entropy - Combo
+	- Increase combo by 1 for ever Entropy Card
 
 ### Status -> Disruption
 - Numb - The next STR card is discarded

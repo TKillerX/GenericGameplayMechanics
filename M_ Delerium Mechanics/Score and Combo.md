@@ -13,7 +13,7 @@ Energy Combo = 3x
 
 (Energy) : Release -> Contain -> Order -> Entropy -> Release
 (Element) : Fire -> Wind -> Ice -> Earth -> Fire
-(Status) : Sickness -> Fatigue -> Numb -> Blind
+(Status) : Sickness -> Fatigue -> Numb -> Blind -> Sickness
 
 **Combo Count Multi**
 Count Multi = 1+ Combo Tally x 0.1
